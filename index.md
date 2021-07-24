@@ -1,37 +1,84 @@
-## Welcome to GitHub Pages
+Skip to content
+Search or jump to…
 
-You can use the [editor on GitHub](https://github.com/jjustinm4/portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@jjustinm4 
+jjustinm4
+/
+portfolio
+1
+00
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+portfolio/index.html
+@jjustinm4
+jjustinm4 Add files via upload
+Latest commit 2323e8c 25 minutes ago
+ History
+ 1 contributor
+40 lines (34 sloc)  1.41 KB
+  
+<!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+        <!--==================== UNICONS ====================-->
+        <link rel="style    eet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css">
+        
+        <link rel="stylesheet" href="styles.css">
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jjustinm4/portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+        <title>Justin M Portfolio Website</title>
+    </head>
+    
+    <body>
+        <div id="bodydiv">
+            
+        <div id="maindiv">
+        <nav>
+            <ul>
+                <li><a href="">About</a></li>
+                <li><a href="education.html">Education</a></li>
+                <li><a href="intern.html">Internship experience</a></li>
+                <li><a href="projects.html">Projects</a></li>
+                <li><a href="certification.html">Certifications</a></li>
+                <li><a href="contact.html">Contact Me</a></li>
+                <li><a href="skills.html">Technical skills</a></li>
+              </ul>
+        </nav>
+    </div>
+    <div id="info">
+        <img id="photo" src="assets/img/justin.png">
+        <h1>Hi I am Justin.M</h1>
+        
+    </div>
+    <p id="infopara">Seeking a profession where i can use my ideas
+        and skills to meet professional and personal goals and also want to create intelligent programs and web apps</p>
+    </div>
+    </body>
+    </html>
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Loading complete
